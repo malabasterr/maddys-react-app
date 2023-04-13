@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/maddys-react-app/static/css/main.ec67f45b.css",
+    "main.js": "/maddys-react-app/static/js/main.d4b0ba30.js",
+    "static/js/787.912057eb.chunk.js": "/maddys-react-app/static/js/787.912057eb.chunk.js",
+    "static/media/thunderSound.mp3": "/maddys-react-app/static/media/thunderSound.25f335c0d3ead5d54cf3.mp3",
+    "static/media/bd2.jpg": "/maddys-react-app/static/media/bd2.fc8f85e37e0fd479baa4.jpg",
+    "static/media/cartoon street.jpg": "/maddys-react-app/static/media/cartoon street.9ba2ac44ae1c4dc76bd4.jpg",
+    "static/media/bd1.jpg": "/maddys-react-app/static/media/bd1.4a8935d11108ad3f61f4.jpg",
+    "static/media/bd3.jpg": "/maddys-react-app/static/media/bd3.5adc69a1600ab371cad1.jpg",
+    "static/media/bd1-dark.jpg": "/maddys-react-app/static/media/bd1-dark.93de2798f47b41caf665.jpg",
+    "static/media/MagicBook.png": "/maddys-react-app/static/media/MagicBook.8ff0500b9abbdfa2eee5.png",
+    "static/media/paper.jpg": "/maddys-react-app/static/media/paper.c307c55f7a992a569789.jpg",
+    "static/media/Wand.png": "/maddys-react-app/static/media/Wand.09ecd3711cff52322265.png",
+    "static/media/OpenBtn.png": "/maddys-react-app/static/media/OpenBtn.881283a93fbcfb9327a2.png",
+    "static/media/WandSpin.png": "/maddys-react-app/static/media/WandSpin.ae456c89189a91274d58.png",
+    "static/media/Exit.png": "/maddys-react-app/static/media/Exit.abef7560d325bb38405f.png",
+    "index.html": "/maddys-react-app/index.html",
+    "main.ec67f45b.css.map": "/maddys-react-app/static/css/main.ec67f45b.css.map",
+    "main.d4b0ba30.js.map": "/maddys-react-app/static/js/main.d4b0ba30.js.map",
+    "787.912057eb.chunk.js.map": "/maddys-react-app/static/js/787.912057eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec67f45b.css",
+    "static/js/main.d4b0ba30.js"
+  ]
+}
